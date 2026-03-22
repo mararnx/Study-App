@@ -1,0 +1,350 @@
+{
+  "examId": "exam1",
+  "examTitle": "Sexualpädagogik & Sexualwissenschaft — MA 8 ISP Zürich",
+  "topics": [
+    {
+      "id": "topic-01",
+      "title": "Psychosexuelle Entwicklung über die Lebensspanne",
+      "description": "Grundlagen der Entwicklungspsychologie, Lebensspannenpsychologie nach Baltes, Entwicklungsaufgaben nach Havighurst, biografische Transitionen und kritische Lebensereignisse.",
+      "sourceBlocks": ["Block 01 Borgmann"],
+      "learningGoals": [
+        {
+          "id": "lg-01-01",
+          "description": "Die 6 Prinzipien der Lebensspannenpsychologie nach Baltes benennen und erklären können.",
+          "keywords": ["Lebensspannenpsychologie", "Baltes", "Multidirektionalität", "Plastizität", "Kontextualität"]
+        },
+        {
+          "id": "lg-01-02",
+          "description": "Das Konzept der Entwicklungsaufgaben nach Havighurst (1972) verstehen und Quellen der Entwicklungsanforderungen benennen können.",
+          "keywords": ["Havighurst", "Entwicklungsaufgaben", "normativ", "Bewältigung"]
+        },
+        {
+          "id": "lg-01-03",
+          "description": "Biografische Transitionen definieren, Beispiele nennen und deren Bedeutung für die Identitätsentwicklung erkennen können.",
+          "keywords": ["Transitionen", "Übergänge", "Griebel", "Niesel", "Diskontinuität"]
+        },
+        {
+          "id": "lg-01-04",
+          "description": "Kritische Lebensereignisse und die Holmes & Rahe Skala kennen sowie deren Auswirkungen auf Wohlbefinden und Gesundheit einschätzen können.",
+          "keywords": ["Holmes", "Rahe", "Lebensereignisse", "Lebensveränderungseinheiten", "Stress"]
+        },
+        {
+          "id": "lg-01-05",
+          "description": "Das Vulnerabilitäts-Stress-Modell (Fassmetapher) erklären und auf die eigene Person anwenden können.",
+          "keywords": ["Vulnerabilität", "Stress", "Fassmetapher", "Belastung", "Bio-Psycho-Sozial"]
+        },
+        {
+          "id": "lg-01-06",
+          "description": "Den Unterschied zwischen Eustress und Distress kennen und Resilienz als dynamisches Konstrukt verstehen.",
+          "keywords": ["Eustress", "Distress", "Resilienz", "Stehaufmensch", "Kalisch"]
+        }
+      ]
+    },
+    {
+      "id": "topic-02",
+      "title": "Resilienz und Selbsterfahrung",
+      "description": "Resilienzkonzept, Resilienzfaktoren (die vier S nach Kaluza), Bedeutung der Selbsterfahrung für die professionelle therapeutische Arbeit.",
+      "sourceBlocks": ["Block 01 Borgmann"],
+      "learningGoals": [
+        {
+          "id": "lg-02-01",
+          "description": "Die drei Merkmale von Resilienz benennen und von Vulnerabilität abgrenzen können.",
+          "keywords": ["Resilienz", "Vulnerabilität", "Interaktion", "situationsspezifisch", "dynamisch"]
+        },
+        {
+          "id": "lg-02-02",
+          "description": "Die vier S der Resilienzförderung nach Kaluza (Selbstfürsorge, Soziales Netzwerk, Selbstwirksamkeit, Sinnorientierung) erklären können.",
+          "keywords": ["Kaluza", "Selbstfürsorge", "Soziales Netzwerk", "Selbstwirksamkeit", "Sinnorientierung"]
+        },
+        {
+          "id": "lg-02-03",
+          "description": "Ziele, Aspekte und Gründe der Selbsterfahrung für die sexualtherapeutische Praxis kennen.",
+          "keywords": ["Selbsterfahrung", "Selbstreflexion", "Selbstregulation", "professionelle Identität", "Psychohygiene"]
+        }
+      ]
+    },
+    {
+      "id": "topic-03",
+      "title": "Salutogenese und HEDE-Kontinuum",
+      "description": "Aaron Antonovskys Salutogenesemodell, das HEDE-Kontinuum, Sense of Coherence (SOC) und der Paradigmenwechsel von Pathogenese zu Salutogenese.",
+      "sourceBlocks": ["Salutogenese PDF", "Block 01 Borgmann"],
+      "learningGoals": [
+        {
+          "id": "lg-03-01",
+          "description": "Das Konzept der Salutogenese nach Aaron Antonovsky erklären und von Pathogenese abgrenzen können.",
+          "keywords": ["Salutogenese", "Pathogenese", "Antonovsky", "Gesundheitsentstehung", "Schutzfaktoren"]
+        },
+        {
+          "id": "lg-03-02",
+          "description": "Das HEDE-Kontinuum (Health Ease / Dis-Ease) als mehrdimensionales Modell beschreiben können.",
+          "keywords": ["HEDE-Kontinuum", "Gesundheit", "Krankheit", "Kontinuum", "Befund", "Befinden"]
+        },
+        {
+          "id": "lg-03-03",
+          "description": "Die drei Komponenten des Sense of Coherence (SOC) — Verstehbarkeit, Handhabbarkeit, Sinnhaftigkeit — erklären können.",
+          "keywords": ["Sense of Coherence", "SOC", "Verstehbarkeit", "Handhabbarkeit", "Sinnhaftigkeit"]
+        },
+        {
+          "id": "lg-03-04",
+          "description": "Die Flussmetapher Antonovskys und deren Bedeutung für das Gesundheitsverständnis erläutern können.",
+          "keywords": ["Flussmetapher", "Gesundheit", "Krankheit", "normaler Bestandteil", "WHO"]
+        }
+      ]
+    },
+    {
+      "id": "topic-04",
+      "title": "Embodiment und Körperwahrnehmung",
+      "description": "Embodiment-Konzept nach Storch et al., drei Gesetzmässigkeiten des Körpers (Raum, Rhythmus, Tonus), Körpergedächtnis, Faszien und Propriozeption.",
+      "sourceBlocks": ["Block 04", "Block 18"],
+      "learningGoals": [
+        {
+          "id": "lg-04-01",
+          "description": "Das Konzept des Embodiments nach Storch et al. in eigenen Worten beschreiben und dessen Bedeutung für die Sexologie erkennen können.",
+          "keywords": ["Embodiment", "Storch", "Verkörperung", "Körper-Geist-Einheit", "zirkuläre Kausalität"]
+        },
+        {
+          "id": "lg-04-02",
+          "description": "Die drei Gesetzmässigkeiten des Körpers (Raum, Rhythmus, Tonus) erklären und ihre Relevanz für die Sexualtherapie verstehen.",
+          "keywords": ["Raum", "Rhythmus", "Tonus", "hypoton", "hyperton", "3 GdK"]
+        },
+        {
+          "id": "lg-04-03",
+          "description": "Die Formen des Körpergedächtnisses (prozedural, situativ, inkorporativ, zwischenleiblich) unterscheiden können.",
+          "keywords": ["Körpergedächtnis", "prozedural", "situativ", "inkorporativ", "zwischenleiblich"]
+        },
+        {
+          "id": "lg-04-04",
+          "description": "Interozeption, Propriozeption, Viszerozeption und Exterozeption definieren und unterscheiden können.",
+          "keywords": ["Interozeption", "Propriozeption", "Viszerozeption", "Exterozeption", "Wahrnehmung"]
+        },
+        {
+          "id": "lg-04-05",
+          "description": "Die Rolle der Faszien für die Propriozeption und als Sinnesorgan erklären können.",
+          "keywords": ["Faszien", "Propriozeption", "Rezeptoren", "Sinnesorgan", "Nervensystem"]
+        }
+      ]
+    },
+    {
+      "id": "topic-05",
+      "title": "Doppelte Schaukel und Sexocorporel-Körperarbeit",
+      "description": "Die doppelte Schaukel (Beckenschaukel und obere Schaukel), Aufmerksamkeitszentrierung, Embodied Communication und Embodied Listening.",
+      "sourceBlocks": ["Block 04", "Block 18"],
+      "learningGoals": [
+        {
+          "id": "lg-05-01",
+          "description": "Die doppelte Schaukel (untere/obere Schaukel) und deren neurophysiologische Grundlagen erklären können.",
+          "keywords": ["Doppelte Schaukel", "Beckenschaukel", "Anteversion", "Retroversion", "Wirbelsäule"]
+        },
+        {
+          "id": "lg-05-02",
+          "description": "Die Konzepte der Aufmerksamkeitszentrierung (Egozentrierung, Heterozentrierung, Autozentrierung) nach Sztenc unterscheiden können.",
+          "keywords": ["Autozentrierung", "Egozentrierung", "Heterozentrierung", "Aufmerksamkeit", "Sztenc"]
+        },
+        {
+          "id": "lg-05-03",
+          "description": "Embodied Communication nach Storch & Tschacher und das Konzept des Embodied Listening verstehen können.",
+          "keywords": ["Embodied Communication", "Embodied Listening", "Synchronisation", "AAO-Geschenk"]
+        }
+      ]
+    },
+    {
+      "id": "topic-06",
+      "title": "Modell Sexocorporel — Überblick und Komponenten",
+      "description": "Die vier Komponenten des Modells Sexocorporel (physiologisch, kognitiv, sexodynamisch, beziehungsbezogen) und deren Unterkomponenten.",
+      "sourceBlocks": ["Block 2", "Block 3", "Block 8"],
+      "learningGoals": [
+        {
+          "id": "lg-06-01",
+          "description": "Die vier Hauptkomponenten des Modells Sexocorporel und deren Unterkomponenten benennen können.",
+          "keywords": ["Sexocorporel", "physiologisch", "kognitiv", "sexodynamisch", "Beziehungskomponenten"]
+        },
+        {
+          "id": "lg-06-02",
+          "description": "Den Erregungsreflex und dessen vaskuläre und muskuläre Manifestation erklären können.",
+          "keywords": ["Erregungsreflex", "Vasokongestion", "Muskelspannung", "Schwellkörper", "Durchblutung"]
+        },
+        {
+          "id": "lg-06-03",
+          "description": "Die Begriffe Erregungsquellen, Erregungskurve, Erregungsmodus und deren Zusammenspiel verstehen.",
+          "keywords": ["Erregungsquellen", "Erregungskurve", "Erregungsmodus", "PONR", "Entladung"]
+        }
+      ]
+    },
+    {
+      "id": "topic-07",
+      "title": "Sexuelle Erregungsmodi",
+      "description": "Die sechs Erregungsmodi nach Sexocorporel: archaisch, mechanisch, archaisch-mechanisch, Vibrationsmodus, ondulierend, wellenförmig — mit jeweiligen Stärken und Grenzen.",
+      "sourceBlocks": ["Block 2", "Block 3", "Block 8"],
+      "learningGoals": [
+        {
+          "id": "lg-07-01",
+          "description": "Alle sechs Erregungsmodi nach Sexocorporel benennen und deren Charakteristika bezüglich der 3 GdK beschreiben können.",
+          "keywords": ["archaisch", "mechanisch", "Vibrationsmodus", "ondulierend", "wellenförmig"]
+        },
+        {
+          "id": "lg-07-02",
+          "description": "Stärken und mögliche Grenzen des archaisch-mechanischen Modus kennen.",
+          "keywords": ["AMM", "Spannung", "flache Atmung", "EP", "ED", "Dyspareunie"]
+        },
+        {
+          "id": "lg-07-03",
+          "description": "Den ondulierenden und wellenförmigen Modus vergleichen und deren therapeutische Bedeutung erkennen können.",
+          "keywords": ["ondulierend", "wellenförmig", "Diffusion", "Kanalisierung", "Loslassen"]
+        },
+        {
+          "id": "lg-07-04",
+          "description": "Diffusion, Kanalisierung und Loslassen der Erregung als Konzepte des Sexocorporel erklären können.",
+          "keywords": ["Diffusion", "Kanalisierung", "Loslassen", "orgastische Entladung", "Orgasmus"]
+        }
+      ]
+    },
+    {
+      "id": "topic-08",
+      "title": "Kognitionen und Sexualität",
+      "description": "Kognitive Komponenten nach Sexocorporel, Kognitionskategorien nach Kant (Wissen, Meinen, Glauben), kognitive Einflüsse auf sexuelles Lusterleben.",
+      "sourceBlocks": ["MA VIII Kognitionen"],
+      "learningGoals": [
+        {
+          "id": "lg-08-01",
+          "description": "Die Elemente der kognitiven Komponenten nach Sexocorporel (Kenntnisse, Wissen, Glaubenssysteme, Ideologien, Idealisierungen, Werturteile, Denkweisen) benennen und unterscheiden können.",
+          "keywords": ["Kognitionen", "Wissen", "Meinen", "Glauben", "Denkweisen", "Ideologien"]
+        },
+        {
+          "id": "lg-08-02",
+          "description": "Die Wirkung von Kognitionen auf das sexuelle Lusterleben nach Bischof erklären und den Zusammenhang mit Erregungsmodi verstehen.",
+          "keywords": ["Lusterleben", "hemmend", "fördernd", "Bischof", "Placebo-Effekt", "Belohnungssystem"]
+        },
+        {
+          "id": "lg-08-03",
+          "description": "Kognitionen im Sinne von Kant (Wissen, Meinen, Glauben) als Fürwahrhalten unterscheiden können.",
+          "keywords": ["Kant", "Fürwahrhalten", "Wissen", "Meinen", "Glauben", "Denkstil"]
+        }
+      ]
+    },
+    {
+      "id": "topic-09",
+      "title": "Physiologie der männlichen Genitalorgane",
+      "description": "Anatomie und Physiologie der männlichen Geschlechtsorgane, Embryologie, Erektion, Ejakulation, hormonelle Regelkreise, Testosteron, PADAM.",
+      "sourceBlocks": ["Block 9"],
+      "learningGoals": [
+        {
+          "id": "lg-09-01",
+          "description": "Die inneren und äusseren männlichen Geschlechtsorgane benennen und deren Funktionen beschreiben können.",
+          "keywords": ["Penis", "Hoden", "Prostata", "Nebenhoden", "Samenleiter", "Schwellkörper"]
+        },
+        {
+          "id": "lg-09-02",
+          "description": "Die Physiologie der Erektion (NO-cGMP-Kaskade) und die Phasen der Ejakulation (Emission, Expulsion) erklären können.",
+          "keywords": ["Erektion", "NO", "cGMP", "PDE-5", "Emission", "Expulsion", "Parasympathikus"]
+        },
+        {
+          "id": "lg-09-03",
+          "description": "Die HHG-Achse, Testosteronproduktion und PADAM kennen.",
+          "keywords": ["HHG-Achse", "Testosteron", "Leydigzellen", "Sertolizellen", "PADAM", "GnRH"]
+        },
+        {
+          "id": "lg-09-04",
+          "description": "ED und Ejaculatio praecox bezüglich Ursachen und Behandlungsansätze verstehen.",
+          "keywords": ["Erektile Dysfunktion", "Ejaculatio praecox", "PDE-5-Hemmer", "SSRI", "Start-Stop"]
+        }
+      ]
+    },
+    {
+      "id": "topic-10",
+      "title": "Physiologie der weiblichen Genitalorgane",
+      "description": "Anatomie und Physiologie der weiblichen Geschlechtsorgane, weibliche Lebensphasen, Hormonachsen, weiblicher Zyklus, Menopause.",
+      "sourceBlocks": ["Block 10"],
+      "learningGoals": [
+        {
+          "id": "lg-10-01",
+          "description": "Die weiblichen Genitalorgane (Vulva, Vagina, Uterus, Ovarien, Klitoris) anatomisch und funktionell beschreiben können.",
+          "keywords": ["Vulva", "Vagina", "Uterus", "Ovarien", "Klitoris", "Eileiter"]
+        },
+        {
+          "id": "lg-10-02",
+          "description": "Den weiblichen Zyklus (Ovulation, Lutealphase) und die hormonelle Regulation verstehen.",
+          "keywords": ["Zyklus", "Ovulation", "Lutealphase", "Östrogen", "Progesteron", "Gonadotropine"]
+        },
+        {
+          "id": "lg-10-03",
+          "description": "Weibliche Lebensphasen (Pubertät, Reproduktionszeit, Menopause, Senium) und deren Auswirkungen auf die Sexualität kennen.",
+          "keywords": ["Pubertät", "Menopause", "Klimakterium", "Senium", "Lebensphasen"]
+        }
+      ]
+    },
+    {
+      "id": "topic-11",
+      "title": "Sexuelle Modelle und Neurobiologie der Sexualität",
+      "description": "Sexueller Reaktionszyklus nach Masters & Johnson, Kaplans 3-Phasen-Modell, Bassons zirkuläres Modell, Dual Control Model, Drei Emotions-Motivationssysteme nach Fisher.",
+      "sourceBlocks": ["Block 8"],
+      "learningGoals": [
+        {
+          "id": "lg-11-01",
+          "description": "Die sexuellen Reaktionsmodelle (Masters & Johnson, Kaplan, Basson) vergleichen und deren klinische Relevanz einordnen können.",
+          "keywords": ["Masters", "Johnson", "Kaplan", "Basson", "sexueller Reaktionszyklus", "responsiv"]
+        },
+        {
+          "id": "lg-11-02",
+          "description": "Das Dual Control Model (Sexualbeschleuniger/Bremsen) nach Nagoski erklären können.",
+          "keywords": ["Dual Control Model", "Nagoski", "Sexualbeschleuniger", "Bremsen", "Inhibition", "Exzitation"]
+        },
+        {
+          "id": "lg-11-03",
+          "description": "Die drei Emotions-Motivationssysteme der Sexualität (Lust, Annäherung, Bindung) nach Fisher beschreiben können.",
+          "keywords": ["Fisher", "Lustsystem", "Annäherungssystem", "Bindungssystem", "Oxytocin", "Vasopressin"]
+        },
+        {
+          "id": "lg-11-04",
+          "description": "Die Rolle von Oxytocin und Vasopressin für Bindung und sexuelles Verhalten verstehen.",
+          "keywords": ["Oxytocin", "Vasopressin", "Bindung", "Präriewühlmaus", "Coolidge-Effekt"]
+        }
+      ]
+    },
+    {
+      "id": "topic-12",
+      "title": "Sexodynamische Komponenten",
+      "description": "Gefühl der Geschlechtszugehörigkeit, sexueller Archetyp, sexuelle Selbstsicherheit, sexuelle Lust, sexuelles Begehren, Anziehungskodes, emotionale Intensität, sexuelle Fantasien.",
+      "sourceBlocks": ["Block 7", "Skript Rot"],
+      "learningGoals": [
+        {
+          "id": "lg-12-01",
+          "description": "Das Gefühl der Geschlechtszugehörigkeit als Schlüsselelement der Sexodynamik erklären und die verschiedenen Ausprägungen kennen.",
+          "keywords": ["Geschlechtszugehörigkeit", "Archetyp", "Stereotyp", "maskulinoid", "feminoid"]
+        },
+        {
+          "id": "lg-12-02",
+          "description": "Sexuelle Selbstsicherheit definieren und die Faktoren kennen, die sie verstärken (Narzissmus, Exhibitionismus im sexologischen Sinne).",
+          "keywords": ["Sexuelle Selbstsicherheit", "Narzissmus", "Exhibitionismus", "Stolz", "Erotisierung"]
+        },
+        {
+          "id": "lg-12-03",
+          "description": "Sexuelle Lust, sexuelles Begehren und emotionale Intensität als Konzepte des Sexocorporel voneinander abgrenzen können.",
+          "keywords": ["Sexuelle Lust", "Sexuelles Begehren", "Emotionale Intensität", "Anziehungskodes", "Fantasien"]
+        }
+      ]
+    },
+    {
+      "id": "topic-13",
+      "title": "Beziehungskomponenten und Sexuelle Bildung",
+      "description": "Beziehungsaspekte nach Sexocorporel, Liebesgefühl, Verführung, Kommunikation, Konzepte der Sexuellen Bildung.",
+      "sourceBlocks": ["Block 12", "Skript Sexuelle Bildung"],
+      "learningGoals": [
+        {
+          "id": "lg-13-01",
+          "description": "Die Beziehungskomponenten des Modells Sexocorporel (Liebesgefühl, Kommunikation, Verführung, Erotische Kompetenz) benennen können.",
+          "keywords": ["Beziehungskomponenten", "Liebesgefühl", "Verführung", "Kommunikation", "Erotische Kompetenz"]
+        },
+        {
+          "id": "lg-13-02",
+          "description": "Arten des Sich-Verliebens und die Dynamik von Traum vs. Realität in Partnerschaften erklären können.",
+          "keywords": ["Verlieben", "coup de foudre", "Idealisierung", "Feindseligkeit", "Träumbarkeit"]
+        },
+        {
+          "id": "lg-13-03",
+          "description": "Grundbegriffe der Sexuellen Bildung (Sexualaufklärung, Sexualerziehung, Sexualpädagogik, Sexuelle Bildung) unterscheiden können.",
+          "keywords": ["Sexuelle Bildung", "Sexualaufklärung", "Sexualpädagogik", "Didaktik", "Methodik"]
+        }
+      ]
+    }
+  ]
+}
