@@ -1,0 +1,7 @@
+name: study-app
+static_sites:
+  - name: study-app
+    build_command: npm run build
+    output_dir: dist
+    environment_slug: node-js
+    source_dir: /
